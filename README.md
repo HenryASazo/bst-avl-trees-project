@@ -5,7 +5,7 @@ This repository contains my university project that implements a **Binary Search
 ## Project Overview
 
 **Objective**: To implement and compare the operations of a basic BST and a self-balancing AVL tree, showcasing their functionalities and efficiency.  
-**Programming Language**: C++, Cmake
+**Programming Language**: C++
 
 ## Features
 
