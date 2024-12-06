@@ -29,7 +29,6 @@ This repository contains my university project that implements a **Binary Search
 
 1. **Setup**:
    - Clone the repository and compile the code in your preferred IDE.
-   - Ensure all dependencies (if any) are installed.
 2. **Execution**:
    - Run the code on docker.
    - Test the functionalities such as insertion, deletion, and search.
